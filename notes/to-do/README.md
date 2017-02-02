@@ -5,8 +5,8 @@ Things on my to-do list.
 
 Syntax:
 
-   Composer:Title of work:Listened
+    Composer:Title of work:Listened
 
 e.g.
 
-   Saint-Saens:Piano Concerto No. 5:yes
+    Saint-Saens:Piano Concerto No. 5:yes
