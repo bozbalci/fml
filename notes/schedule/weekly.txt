@@ -1,11 +1,11 @@
--,Monday,Tuesday,Wednesday,Thursday,Friday,
-08:40,-,-,-,-,-,
-09:40,-,-,CENG222 bmb3,-,-,
-10:40,CENG222 bmb2,CENG232 bmb2,-,-,-,
-11:40,CENG222 bmb2,CENG232 bmb2,-,CENG280 bmb1,-,
-12:40,-,-,JA202 ie104,-,-,
-13:40,-,-,JA202 ie104,-,-,
-14:40,-,-,-,-,-,
-15:40,JA202 ie104,CENG280 bmb1,HIST2202 m04,CENG232 bmb2,-,
-16:40,JA202 ie104,CENG280 bmb1,HIST2202 m04,-,-,
-17:40,-,-,-,-,-,
+-,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+08:40,-,-,-,-,-,-,-
+09:40,-,-,CENG222 bmb3,-,-,-,-
+10:40,CENG222 bmb2,CENG232 bmb2,-,-,-,-,-
+11:40,CENG222 bmb2,CENG232 bmb2,-,CENG280 bmb1,-,-,-
+12:40,-,-,JA202 ie104,-,-,-,-
+13:40,-,-,JA202 ie104,-,-,-,-
+14:40,-,-,-,-,-,-,-
+15:40,JA202 ie104,CENG280 bmb1,HIST2202 m04,CENG232 bmb2,-,-,-
+16:40,JA202 ie104,CENG280 bmb1,HIST2202 m04,-,-,-,-
+17:40,-,-,-,-,-,-,-
