@@ -1,3 +1,4 @@
-weekly.txt,"My weekly course schedule"
+ceng280.csv,"Ceng280 important dates"
+weekly.csv,"My weekly course schedule"
 weekly-pretty.txt,"Weekly course schedule in tabular format"
-ceng280.txt,"Ceng280 important dates"
+weekly-transposed.csv,"Weekly course schedule where days are records and hours are fields"
