@@ -1,0 +1,79 @@
+Addinsell:Warsaw Concerto:no
+Alkan:Concerto for Solo Piano:no
+Atterberg:Piano Concerto:no
+Bartok:Piano Concerto No. 2:no
+Bartok:Piano Concerto No. 3:no
+Beethoven:Piano Concerto No. 1:no
+Beethoven:Piano Concerto No. 2:no
+Beethoven:Piano Concerto No. 3:no
+Beethoven:Piano Concerto No. 4:no
+Beethoven:Piano Concerto No. 5:no
+Berwald:Piano Concerto:no
+Brahms:Piano Concerto No. 1:no
+Brahms:Piano Concerto No. 2:no
+Britten:Piano Concerto:no
+Busoni:Piano Concerto:no
+Chopin:Piano Concerto No. 1:no
+Chopin:Piano Concerto No. 2:no
+Chopin:Rondo a la Krakowiak:no
+Clara Schumann:Piano Concerto:no
+Delius:Piano Concerto:no
+Dohnanyi:Piano Concerto No. 1:no
+Dvorak:Piano Concerto:no
+Gershwin:Concerto in F:no
+Golubev:Piano Concerto No. 1:no
+Grieg:Piano Concerto:no
+Haydn:Keyboard Concerto No. 11:no
+Kabalevsky:Piano Concerto No. 3:no
+Khachaturian:Piano Concerto:no
+Ligeti:Piano Concerto:no
+Liszt:Piano Concerto No. 1:no
+Liszt:Totentanz:no
+MacDowell:Piano Concerto No. 1:no
+MacDowell:Piano Concerto No. 2:no
+Medtner:Piano Concerto No. 1:no
+Medtner:Piano Concerto No. 2:no
+Medtner:Piano Concerto No. 3:no
+Mendelssohn:Piano Concerto No. 1:no
+Mendelssohn:Piano Concerto No. 2:no
+Messiaen:Oiseaux exotiques:no
+Moszkowski:Piano Concerto:no
+Mozart:Piano Concerto No. 7:no
+Mozart:Piano Concerto No. 9:no
+Mozart:Piano Concerto No. 20:no
+Mozart:Piano Concerto No. 22:no
+Mozart:Piano Concerto No. 23:no
+Mozart:Piano Concerto No. 24:no
+Mozart:Piano Concerto No. 25:no
+Mozart:Piano Concerto No. 27:no
+Pierne:Piano Concerto:no
+Poulenc:Concerto for Two Pianos and Orchestra:no
+Poulenc:Piano Concerto:no
+Prokofiev:Piano Concerto No. 1:no
+Prokofiev:Piano Concerto No. 2:no
+Prokofiev:Piano Concerto No. 3:no
+Rachmaninoff:Piano Concerto No. 1:no
+Rachmaninoff:Piano Concerto No. 2:yes
+Rachmaninoff:Piano Concerto No. 3:yes
+Rachmaninoff:Piano Concerto No. 4:no
+Ravel:Piano Concerto:no
+Ravel:Piano Concerto for the Left Hand:no
+Ries:Piano Concerto No. 3:no
+Rubinstein:Piano Concerto No. 4:no
+Saint-Saens:Africa, Op. 89:no
+Saint-Saens:Piano Concerto No. 1:no
+Saint-Saens:Piano Concerto No. 2:no
+Saint-Saens:Piano Concerto No. 3:no
+Saint-Saens:Piano Concerto No. 4:no
+Saint-Saens:Piano Concerto No. 5:yes
+Schnittke:Concerto for Piano and Strings:no
+Schoenberg:Piano Concerto:no
+Schumann:Introduction and Allegro:no
+Schumann:Konzertstück, Op. 92:no
+Schumann:Piano Concerto:no
+Scriabin:Piano Concerto:no
+Shostakovich:Piano Concerto No. 1:no
+Shostakovich:Piano Concerto No. 2:no
+Stanford:Piano Concerto No. 2:no
+Tchaikovsky:Piano Concerto No. 1:no
+Thalberg:Piano Concerto:no
