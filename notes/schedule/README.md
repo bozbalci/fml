@@ -4,7 +4,7 @@ My weekly schedule, exam dates, calendars, etc.
 ### weekly.csv
 My weekly course schedule
 
-Format example:
+Format:
 
     -,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
     15:40,JA202 ie104,CENG280 bmb1,HIST2202 m04,CENG232 bmb2,-,-,-
