@@ -1,28 +1,19 @@
 # to-do
-Things on my to-do list.
+Keeping track of tasks
 
-### piano-concertos
+### piano.csv
 
 List of the piano concertos I'd like to listen to.
 
-Syntax:
+Format:
 
-    Composer:Title of work:Listened
+    composer,title,listened
+    Rachmaninoff,"Piano Concerto No. 2",yes
+    Rachmaninoff,"Piano Concerto No. 3",yes
+    Rachmaninoff,"Piano Concerto No. 4",no
 
-e.g.
+Commands:
 
-    Saint-Saens:Piano Concerto No. 5:yes
-
-Example command(s):
-
-    $ gawk -F: '/Mozart/ {print $2}' piano-concertos
-    Piano Concerto No. 7
-    Piano Concerto No. 9
-    Piano Concerto No. 20
-    Piano Concerto No. 22
-    Piano Concerto No. 23
-    Piano Concerto No. 24
-    Piano Concerto No. 25
-    Piano Concerto No. 27
-
-    $ gawk -F: -i inplace '' piano-concertos
+    $ awk -F, '/Rachmaninoff/ {if ($3 == "yes") print $2}' piano.csv | tr -d \" 
+    Piano Concerto No. 2
+    Piano Concerto No. 3
