@@ -1,8 +1,8 @@
-2017-03-10 - the1 announced, scope: ch1, ch2, fa, regex (weeks 1-5)
-2017-03-24 - the1 deadline
-2017-03-31 - midterm exam 1, at 17:30
-2017-04-14 - the2 announced, scope: ch3, cfg, pda, cyk (weeks 6-10)
-2017-04-28 - the2 deadline
-2017-05-05 - midterm exam 2, at 17:30
-2017-05-12 - the3 announced, scope: ch4, ch5, tm, grammars, halting prb (weeks 11-14)
-2017-05-26 - the3 deadline
+2017-03-10,"the1 announced, scope: ch1, ch2, fa, regex (weeks 1-5)"
+2017-03-24,"the1 deadline"
+2017-03-31,"midterm exam 1, at 17:30"
+2017-04-14,"the2 announced, scope: ch3, cfg, pda, cyk (weeks 6-10)"
+2017-04-28,"the2 deadline"
+2017-05-05,"midterm exam 2, at 17:30"
+2017-05-12,"the3 announced, scope: ch4, ch5, tm, grammars, halting prb (weeks 11-14)"
+2017-05-26,"the3 deadline"
