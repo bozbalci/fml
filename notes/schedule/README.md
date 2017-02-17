@@ -46,6 +46,8 @@ Commands:
 ### weekly-transposed.csv
 Weekly course schedule where days are records and hours are fields
 
+Commands:
+
     $ findcourse() {
     $     awk -F, "/$1/{for(i=1;i<NF;i++){if(\$i~/$1/){print\$1,6+i\":40\",\$i}}}" weekly-transposed.csv
     $ }
