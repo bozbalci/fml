@@ -1,0 +1,17 @@
+#!/bin/sh
+
+tmpdir="/tmp/viewmd/"
+
+if [ -z ${1+x} ]
+then
+    echo "usage: viewmd [file]"
+    exit
+fi
+
+mkdir -p $tmpdir
+tmpfile=$(mktemp $tmpdir/XXXX.html)
+pandoc -c github-markdown.css -s $1 > $tmpfile
+cp ./github-markdown.css $tmpdir
+
+# View in Firefox
+firefox $tmpfile &
